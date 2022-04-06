@@ -19,6 +19,15 @@ mongodb://localhost:27017/entriesdb
 
 Renombrar el archivo __.env.template__ a __.env__
 
+* Reconstruir los modulos de Node y levantar aplicacion
+```
+yarn install 
+yarn dev
+```
+
+
+
+
 ## Llenar la base de datos con informacion de pruebas
 
 ```
